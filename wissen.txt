@@ -1,0 +1,7 @@
+Add your knowledge here.
+Each line can contain one piece of information.
+
+Example:
+John Doe is a software developer at Company XYZ.
+He works with Python, Docker and PostgreSQL.
+He lives in Berlin, Germany.
