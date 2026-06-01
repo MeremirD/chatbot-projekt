@@ -1,5 +1,7 @@
 # Chatbot Project
 
+> A hands-on learning project to explore how local AI chatbots work — from basic conversation memory to Retrieval-Augmented Generation (RAG).
+
 A local AI chatbot built with [Ollama](https://ollama.com) and [LangChain](https://www.langchain.com/) — no cloud API, no costs, runs entirely on your machine.
 
 ## Included Chatbots
@@ -23,7 +25,7 @@ python -m venv venv
 venv\Scripts\activate        # Windows
 # source venv/bin/activate   # macOS/Linux
 
-pip install langchain langchain-ollama langchain-community chromadb
+pip install -r requirements.txt
 ```
 
 ## Usage
